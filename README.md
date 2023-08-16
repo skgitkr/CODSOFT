@@ -1,2 +1,2 @@
-# CODSOFT
+# CODSOFT Calculator
 project training
